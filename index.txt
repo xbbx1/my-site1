@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Мой сайт</title>
+</head>
+<body style="background-color: lightskyblue;">
+
+<h1>Добро пожаловать!</h1>
+
+<p>Это мой сайт. Надеюсь, он вам понравится!</p>
+
+<p><b>Полужирный текст</b></p>
+<p><i>Наклонный текст</i></p>
+<p><u>Подчеркнутый текст</u></p>
+
+<br>
+
+<p style="color: midnightblue;">Текст тёмно-синего цвета</p>
+
+<br>
+
+<img src="C:\Users\Public\Pictures\Sample Pictures\ocean.jpg" width="300">
+
+<br><br>
+
+<a href="https://mai.ru/" target="_blank">Сайт МАИ</a>
+
+<br><br>
+
+<marquee>Добро пожаловать на мой сайт!</marquee>
+
+</body>
+</html>
